@@ -1,0 +1,4 @@
+Initial commit: project scaffold
+Add backend API and Employee model
+Frontend: add components, API client, and login screen
+UI polish: tailwind tweaks and footer
